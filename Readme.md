@@ -20,7 +20,7 @@ Responsive Design: Implement media queries to ensure the website adapts to diffe
 
 Content: Replace placeholder content with your captivating photography, descriptions, and any other relevant information you want to share with viewers.
 
-Additional Features (Optional): Explore adding elements like contact information, social media links, or a basic image gallery to further enhance your website's functionality.
+Additional Features (Optional): Explore adding elements like contact information, social media links, or a basic image gallery to further enhance your website's functionality. 
 
 
 
