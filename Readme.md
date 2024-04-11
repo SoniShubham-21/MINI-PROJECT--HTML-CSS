@@ -17,5 +17,11 @@ This project is currently under development. The sidebar and its hover effects a
 # Development Plans
 
 Responsive Design: Implement media queries to ensure the website adapts to different screen sizes, enhancing its accessibility and user experience.
+
 Content: Replace placeholder content with your captivating photography, descriptions, and any other relevant information you want to share with viewers.
+
 Additional Features (Optional): Explore adding elements like contact information, social media links, or a basic image gallery to further enhance your website's functionality.
+
+![Screenshot 2024-04-09 235042](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/99206abb-28bf-4041-9a58-a7893465fe42)
+![Screenshot 2024-04-09 235412](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/7fc74d18-6014-4355-9aeb-46b626a13676)
+
