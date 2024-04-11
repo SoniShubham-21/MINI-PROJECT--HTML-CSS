@@ -7,6 +7,7 @@ This is a work-in-progress photography website featuring a visually appealing si
 # Technologies Used
 
 HTML: Provides the structure and foundation of the website.
+
 CSS: Styles the website's visual elements, including the sidebar hover effects.
 
 # Project Status
