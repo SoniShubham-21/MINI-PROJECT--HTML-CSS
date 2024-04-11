@@ -22,6 +22,11 @@ Content: Replace placeholder content with your captivating photography, descript
 
 Additional Features (Optional): Explore adding elements like contact information, social media links, or a basic image gallery to further enhance your website's functionality.
 
-![Screenshot 2024-04-09 235042](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/99206abb-28bf-4041-9a58-a7893465fe42)
-![Screenshot 2024-04-09 235412](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/7fc74d18-6014-4355-9aeb-46b626a13676)
+
+
+![Screenshot 2024-04-11 204428](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/1f8eaa6e-5f94-4765-9171-76871b0e042c)
+
+
+![Screenshot 2024-04-11 204416](https://github.com/SoniShubham-21/Mini-Project--HTML-CSS/assets/149899320/25cdc189-80a8-4ae3-bc7d-ec59156e5cc2)
+
 
